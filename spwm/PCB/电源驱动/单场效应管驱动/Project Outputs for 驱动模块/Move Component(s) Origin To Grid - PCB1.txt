@@ -1,0 +1,24 @@
+Move Component(s) Origin to Grid
+Filename     : D:\作业\电赛\H桥\驱动模块\PCB1.PcbDoc
+Date         : 2021/3/30
+Time         : 13:46:00
+Time Elapsed : 00:00:00
+
+
+    SOIC Component U1-1EDI60N12AF (9130mil,1120mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R2-Res2 (9380mil,1030.039mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R1-Res2 (9380mil,1169.961mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component P4-Header 4 (9115mil,1915mil) on Top Layer - Component origin is already ON grid.
+    SIP Component P3-Header 4 (8755mil,2320mil) on Top Layer - Component origin is already ON grid.
+    Small Component P2-Header 2 (8595mil,1970mil) on Top Layer - Component origin is already ON grid.
+    Small Component P1-Header 2 (9800mil,1205mil) on Top Layer - Component origin is already ON grid.
+    SMT Small Component D2-Diode (9560mil,1000mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component D1-Diode (9560mil,1180mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component C6-Cap Pol1 (7945mil,1495mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component C5-Cap Pol1 (7945mil,1090mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component C4-Cap Pol1 (7945mil,1800mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C3-Cap (9070mil,1510mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C2-Cap (8890mil,1140mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C1-Cap (8945mil,1330mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SIP Component A1-DC/DC (8215mil,1105mil) on Top Layer - Component origin is already ON grid.
+count : 16
